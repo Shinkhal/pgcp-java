@@ -1,7 +1,8 @@
-import java.util.Scanner;
-import java.math.*;
+package DAY1;
 
-public class Main{
+import java.util.Scanner;
+
+public class AreaCircle {
     public static  void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the Radius of the Circle : ");

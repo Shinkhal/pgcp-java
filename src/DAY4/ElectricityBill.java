@@ -41,6 +41,6 @@ public class ElectricityBill {
         Bill b = new Bill(ConsumerNumber, Name, units);
         b.calculateBill();
         b.display();
-
+        sc.close();
     }
 }
